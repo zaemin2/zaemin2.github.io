@@ -1,3 +1,7 @@
+Name : Jaemin LEE
 
-This template is free under the Creative Commons Attribution 3.0 License.
-https://creativecommons.org/licenses/by/3.0/
+Age : 34
+
+Email : zaemin2@gmail.com
+
+Nationality : Korean
